@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
