@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0035-search-insert-position) |
+| [0518-coin-change-ii](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/999yashpandey/Leetcode-with-Java/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
